@@ -1,0 +1,8 @@
+{
+  "name": "RBCSOS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "b1dd9ef4"
+}
